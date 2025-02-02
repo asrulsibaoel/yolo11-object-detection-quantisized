@@ -1,3 +1,5 @@
+.dvc/config
+
 data/
 outputs/
 *.pt
