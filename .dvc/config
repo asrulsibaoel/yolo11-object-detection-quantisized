@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = gdrive://1a00f_mLUgiZgAjKWqySkmPbpVnlKWFIV/yolo11
+    gdrive_client_id = 657563027684-r8cb39sl2nm1etu38ev5e1icrmlal2i4.apps.googleusercontent.com
+    gdrive_client_secret = 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

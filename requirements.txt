@@ -1,0 +1,9 @@
+ultralytics
+pandas
+numpy
+Pillow
+opencv-python
+tqdm
+dvc
+dvc-gdrive
+dvc-gs
